@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "fastify": "^5.0.0",
+    "fastify-cors": "^6.0.3",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.6.3"
+  },
+  "name": "blog-platform",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
